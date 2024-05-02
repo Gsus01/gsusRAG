@@ -1,0 +1,4 @@
+langchain
+docx2txt
+faiss-cpu
+transformers
